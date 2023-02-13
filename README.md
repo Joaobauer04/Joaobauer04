@@ -1,6 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Bauer;I'm+17+years+old;I+from+Brasil,+SC;I+study+systems+development+at+Senai;Be+Welcome!+👋:%29)](https://git.io/typing-svg)
 
+
+## My social networks:
 <div> 
   <a href="https://www.instagram.com/joaobauer04/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "joaopedrobauer04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
