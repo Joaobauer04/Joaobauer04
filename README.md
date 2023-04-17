@@ -20,7 +20,8 @@
 <br>
 
   ## I'm currently studying
-
+  
+   <img align="center" alt="bauer-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="bauer-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
    <img align="center" alt="bauer-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
 
