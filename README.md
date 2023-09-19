@@ -30,21 +30,5 @@
 ## About:
 I'm a software developer FullStack, I'm currently taking a technical course at Senai, I've been passionate about technology since I was 10 years old.
 
-I have experience in technologies:
-<br/>
-Vue JS
-<br/>
-Nuxt
-<br/>
-GraphQL
-<br/>
-Typescript
-<br/>
-Tailwind CSS
-<br/>
-React/ React Native
-<br/>
-Java
-<br/>
 </div>
 
