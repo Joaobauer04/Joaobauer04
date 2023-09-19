@@ -22,13 +22,21 @@
    <img align="center" alt="bauer-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
    <img align="center" alt="bauer-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="bauer-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-
+   <img align="center" alt="bauer-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />                                                           
 </div>
 
 <br/>
 
 ## About:
 I'm a software developer FullStack, I'm currently taking a technical course at Senai, I've been passionate about technology since I was 10 years old.
-  
+
+I have experience in technologies:
+Vue JS
+Nuxt
+GraphQL
+Typescript
+Tailwind CSS
+React/ React Native
+Java
 </div>
 
