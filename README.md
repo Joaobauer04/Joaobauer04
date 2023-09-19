@@ -28,7 +28,7 @@
 <br/>
 
 ## About:
-I'm a software developer in Vue JS, I'm currently taking a technical course at Senai, I've been passionate about technology since I was 10 years old.
+I'm a software developer FullStack, I'm currently taking a technical course at Senai, I've been passionate about technology since I was 10 years old.
   
 </div>
 
