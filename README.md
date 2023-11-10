@@ -12,7 +12,7 @@
 
 
   ## languages I use:
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,html,css,tailwind,graphql,react,java,git,github,threejs" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,html,css,tailwind,graphql,react,java,git,threejs" />
 
 <br/>
 
