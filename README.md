@@ -12,7 +12,7 @@
 
 
   ## my skills:
-  <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css,tailwind,react,java,git,threejs,dart,flutter,blender" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,tailwind,react,java,git,threejs,dart,flutter,blender" />
 
 <br/>
 
