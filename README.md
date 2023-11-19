@@ -11,7 +11,7 @@
 <br>
 
 
-  ## languages I use:
+  ## my skills:
   <img src="https://skillicons.dev/icons?i=vue,js,ts,html,css,tailwind,react,java,git,threejs,dart,flutter,blender" />
 
 <br/>
