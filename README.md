@@ -11,9 +11,6 @@
 <br>
 
 
-  ## my skills:
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,tailwind,react,java,git,threejs,dart,flutter,blender" />
-
 <br/>
 
 ## About:
